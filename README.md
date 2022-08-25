@@ -1,6 +1,7 @@
 # mensagem_diaria
 
 Projeto frases do dia
+- Um App para enviar frases para seu dispositivo movel para enviar em grupos de familias
 
 ## Getting Started
 
