@@ -3,6 +3,10 @@
 Projeto frases do dia - App Base
 - Um App para enviar frases para seu dispositivo movel para enviar em grupos de familias, ser a famosa tia que da bom dia no grupo👀
 
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=green&style=for-the-badge"/>
+</p>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
